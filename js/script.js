@@ -236,8 +236,7 @@ document.querySelectorAll('#mobile-menu-modal a[href^="#"]').forEach((link) => {
     });
 });
 
-// Defina como "docs/curriculo.pdf" quando o arquivo for adicionado ao projeto.
-const resumeFile = 'docs/curriculo.pdf';
+const resumeFile = '/docs/curriculo.pdf';
 const resumePreview = document.getElementById('resume-preview');
 const resumePending = document.getElementById('resume-pending');
 const resumeDownload = document.getElementById('resume-download');
