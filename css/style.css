@@ -1149,6 +1149,9 @@ body.modal-open {
 .stack-js svg rect { fill: #f7df1e; }
 .stack-js svg text { fill: #1b1b1b; }
 .stack-bootstrap svg rect { fill: #7952b3; }
+.stack-react svg { color: #61dafb; }
+.stack-git svg { color: #f05032; }
+.stack-github svg { color: #f0f0f0; }
 
 .close-btn {
     position: absolute;
